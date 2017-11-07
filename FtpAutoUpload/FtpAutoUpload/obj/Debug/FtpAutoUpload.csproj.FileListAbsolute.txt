@@ -1,1 +1,9 @@
 D:\Git\FtpAutoUpload\FtpAutoUpload\FtpAutoUpload\bin\Debug\FtpAutoUpload.exe.config
+D:\Git\FtpAutoUpload\FtpAutoUpload\FtpAutoUpload\bin\Debug\FtpAutoUpload.exe
+D:\Git\FtpAutoUpload\FtpAutoUpload\FtpAutoUpload\bin\Debug\FtpAutoUpload.pdb
+D:\Git\FtpAutoUpload\FtpAutoUpload\FtpAutoUpload\obj\Debug\FtpAutoUpload.csprojResolveAssemblyReference.cache
+D:\Git\FtpAutoUpload\FtpAutoUpload\FtpAutoUpload\obj\Debug\FtpAutoUpload.Form1.resources
+D:\Git\FtpAutoUpload\FtpAutoUpload\FtpAutoUpload\obj\Debug\FtpAutoUpload.Properties.Resources.resources
+D:\Git\FtpAutoUpload\FtpAutoUpload\FtpAutoUpload\obj\Debug\FtpAutoUpload.csproj.GenerateResource.Cache
+D:\Git\FtpAutoUpload\FtpAutoUpload\FtpAutoUpload\obj\Debug\FtpAutoUpload.exe
+D:\Git\FtpAutoUpload\FtpAutoUpload\FtpAutoUpload\obj\Debug\FtpAutoUpload.pdb
